@@ -1,0 +1,30 @@
+{
+  "name": "treewalker",
+  "version": "1.1.5",
+  "description": "A simple Recursive treewalker",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/.bin/mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prashanth-Nelli/treewalker.git"
+  },
+  "keywords": [
+    "treewalker",
+    "recursive tree walker",
+    "tree",
+    "walker"
+  ],
+  "author": {
+    "name": "Nelli.Prashanth Kumar",
+    "email": "nelli.prashanth1501@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prashanth-Nelli/treewalker/issues"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
+}
